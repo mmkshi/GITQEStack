@@ -1,3 +1,6 @@
 Trying my first Push to Remote repository
 
 Change by team mate to check conflict scenario of Push
+
+The change at local master to test conflict while push
+file 1 updated to check git push conflict
